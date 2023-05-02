@@ -1,0 +1,4 @@
+apa itu elipsis???
+
+elipsis merupakan ... yang dilanjutkan dengan tipe data
+elipsis digunakan untuk mengindikasikan suatu fungsi dengan jumlah argumen yang tidak dapat kita tentukan
